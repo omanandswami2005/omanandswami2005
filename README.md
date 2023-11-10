@@ -1,4 +1,4 @@
-# Hi there,  Omiii Here !!! 👋
+# Hi there,  Omiii is Here !!! 👋
 
 ## About Omiii
 

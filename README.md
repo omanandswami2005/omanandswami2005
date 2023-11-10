@@ -1,15 +1,15 @@
-# Hi there, I'm Omanand Swami ! 👋
+# Hi there,  Omiii Here !!! 👋
 
-## About Me
+## About Omiii
 
 I'm a passionate Coder based in Latur, Maharashtra, Bharat. I love working on projects that get my Bharat ahead.
 
-## Skills
+## Omiii's Skills
 
 - **Programming Languages:** C, C++, Java, SQL, Javascript and learning MORE...
 - **Frameworks and Libraries:** Boostrap, Tailwind, TailBlocks, React, Teachable Machine Etc...
 
-## Projects
+## Omiii's Projects
 
 ### Project 1: [My_MVL_School_Website](https://github.com/ItsOmiii2005/MVL_School_Website)
 
@@ -20,11 +20,11 @@ One of the Websites in the first top 3 Development is my school website as a pra
 Developed Face Mask Detector Website Using Machine Learning By Teachable Machine Which Detects Face Mask At Public Place
 Developed In Corona Lockdown As a School Project.
 
-## Connect with Me
+## Connect with Omiii
 
 - [LinkedIn](https://www.linkedin.com/in/omanandswami)
 - [Twitter](https://twitter.com/omanandswami2)
 
 
-Feel free to explore my repositories and connect with me!
+Feel free to explore Omiii's repositories and connect with Omiii!
 

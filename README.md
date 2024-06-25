@@ -39,8 +39,7 @@ I am a passionate Programmer, from Latur, Maharashtra. I love working on web dev
 - [Face Mask Detector Website Using Machine Learning](https://github.com/ItsOmiii2005/FaceMask_Detector_Machine_learning_project_with_techableMachine) - Developed Face Mask Detector Website Using Machine Learning By Teachable Machine Which Detects Face Mask At Public Place
 Developed In Corona Lockdown As a School Project.
 
-- [VPolyServer](https://github.com/ItsOmiii2005/VPolyServer) - Developed An Advance College Attendance Management System Using MERN Stack as My diploma's Final Year Capstone Project. This Project includes all required and needed features like CRUD of Attendance, CRUD of Teachers and CRUD of Students divided in different sections like Manual Attendance, View Attendance and more.... Please Visit The Live Project Link given in the media section and Please Give Feedback (Through Linkedin Messaging)
-(Id : 01, Pass : 123)
+- [VPolyServer](https://github.com/ItsOmiii2005/VPolyServer) - Developed An Advance College Attendance Management System Using MERN Stack !!!
 
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omanandswami2005@gmail.com)

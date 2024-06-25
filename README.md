@@ -1,9 +1,7 @@
 # Hi there, I'm OMIII 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ItsOmiii2005&style=flat-square&color=blue)
-
 ## 🚀 About Me
-I am a passionate Programmer, from LAtur Maharashtra. I love working on web development.
+I am a passionate Programmer, from Latur, Maharashtra. I love working on web development.
 
 - 🔭 I’m currently working on Student-Teacher Appointment Booking System
 - 🌱 I’m currently learning MERN.
@@ -27,21 +25,22 @@ I am a passionate Programmer, from LAtur Maharashtra. I love working on web deve
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![MongoDB](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/omanandswami/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/OmanandSwa2005)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FOmanandSwa2005)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=web)](https://yourportfolio.com)
-
-## 🐦 Latest Tweet
-[![Latest Tweet](https://gtce.itsvg.in/api?username=yourtwitterusername)](https://twitter.com/OmanandSwa2005)
-
-## 📈 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ItsOmiii2005&theme=redical)
 
 ## 🧑‍💻 My Projects
 - [My_MVL_School_Website](https://github.com/ItsOmiii2005/MVL_School_Website) - One of the Websites from my first top 3 Development is my school website as a practice and learning of HTML and CSS.
+
 - [Face Mask Detector Website Using Machine Learning](https://github.com/ItsOmiii2005/FaceMask_Detector_Machine_learning_project_with_techableMachine) - Developed Face Mask Detector Website Using Machine Learning By Teachable Machine Which Detects Face Mask At Public Place
 Developed In Corona Lockdown As a School Project.
+
+- [VPolyServer](https://github.com/ItsOmiii2005/VPolyServer) - Developed An Advance College Attendance Management System Using MERN Stack as My diploma's Final Year Capstone Project. This Project includes all required and needed features like CRUD of Attendance, CRUD of Teachers and CRUD of Students divided in different sections like Manual Attendance, View Attendance and more.... Please Visit The Live Project Link given in the media section and Please Give Feedback (Through Linkedin Messaging)
+(Id : 01, Pass : 123)
+
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omanandswami2005@gmail.com)

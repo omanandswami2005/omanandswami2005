@@ -3,11 +3,13 @@
 ## 🚀 About Me
 I am a passionate Programmer, from Latur, Maharashtra. I love working on web development.
 
-- 🔭 I’m currently working on Student-Teacher Appointment Booking System
-- 🌱 I’m currently learning MERN.
+
+- 🔰 I’m currently Pursuing B.Tech in Computer Science and Business Systems at JSPM's Rajarshi Shahu College of Engineering, Pune.
+- 🔭 I’m currently working on ServCodes!
+- 🌱 I’m currently learning DevOps!
 
 - 💬 Ask me about MERN.
-- 📫 How to reach me: omanandswami2005@gmail.com.
+- 📫 How to reach me: omanandswami2005@outlook.com
 - ⚡ Fun fact: I am The Happiest 😁.
 
 ## 📊 GitHub Stats

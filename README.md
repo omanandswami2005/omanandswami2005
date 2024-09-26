@@ -35,7 +35,9 @@ I am a passionate Programmer, from Latur, Maharashtra. I love working on web dev
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fomanandswami2)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=web)](https://yourportfolio.com)
 
-## 🧑‍💻 My Projects
+## 🧑‍💻 My Projects 
+- [PDF Consisting My All Projects (Deployed Links & Git Repo Links)] ([Omiii'sProjects.pdf](https://github.com/user-attachments/files/17147103/Omiii.sProjects.pdf)
+)
 - [My_MVL_School_Website](https://github.com/omanandswami2005/MVL_School_Website) - One of the Websites from my first top 3 Development is my school website as a practice and learning of HTML and CSS.
 
 - [Face Mask Detector Website Using Machine Learning](https://github.com/omanandswami2005/FaceMask_Detector_Machine_learning_project_with_techableMachine) - Developed Face Mask Detector Website Using Machine Learning By Teachable Machine Which Detects Face Mask At Public Place

@@ -36,7 +36,7 @@ I am a passionate Programmer, from Latur, Maharashtra. I love working on web dev
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=web)](https://yourportfolio.com)
 
 ## 🧑‍💻 My Projects 
-- [PDF Consisting My All Projects (Deployed Links & Git Repo Links)] ([Omiii'sProjects.pdf](https://github.com/user-attachments/files/17147103/Omiii.sProjects.pdf)
+- PDF Consisting My All Projects (Deployed Links & Git Repo Links) till 26-9-2k24:- ([Omiii's All Projects](https://github.com/user-attachments/files/17147103/Omiii.sProjects.pdf)
 )
 - [My_MVL_School_Website](https://github.com/omanandswami2005/MVL_School_Website) - One of the Websites from my first top 3 Development is my school website as a practice and learning of HTML and CSS.
 

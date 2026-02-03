@@ -5,8 +5,8 @@ I am a passionate Programmer, from Latur, Maharashtra. I love working on web dev
 
 
 - 🔰 I’m currently Pursuing B.Tech in Computer Science and Business Systems at JSPM's Rajarshi Shahu College of Engineering, Pune.
-- 🔭 I’m currently working on ServCodes!
-- 🌱 I’m currently learning DevOps!
+- 🔭 I’m currently working on Generative UI!
+- 🌱 I’m currently learning DevOps (and DSA 😒)!
 
 - 💬 Ask me about MERN.
 - 📫 How to reach me: omanandswami2005@outlook.com
@@ -33,7 +33,7 @@ I am a passionate Programmer, from Latur, Maharashtra. I love working on web dev
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/omanandswami2005/)
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fomanandswami2)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=web)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=web)](https://omanandswami.vercel.app/)
 
 ## 🧑‍💻 My Projects 
 - PDF Consisting My All Projects (Deployed Links & Git Repo Links) till 26-9-2k24:- ([Omiii's All Projects](https://github.com/user-attachments/files/17147103/Omiii.sProjects.pdf)

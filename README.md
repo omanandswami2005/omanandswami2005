@@ -50,7 +50,7 @@ I'm Omanand Swami (aka OMIII), a passionate Full Stack Developer and AI Enthusia
 <table>
   <tr>
     <td width="30%" align="center">
-      <b>Backend Developer</b><br/>
+      <b>Backend Developer & CTO</b><br/>
       <sub>Coding Club RSCOE</sub><br/>
       <sub>Dec 2024 - Present</sub>
     </td>

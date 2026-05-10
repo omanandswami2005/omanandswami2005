@@ -25,7 +25,7 @@
   <a href="https://omanandswami.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.youtube.com/@omanandswami" target="_blank">
+  <a href="https://www.youtube.com/@omanandswami2005" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.instagram.com/omanandswami2005/" target="_blank">
